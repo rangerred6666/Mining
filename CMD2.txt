@@ -1,0 +1,26 @@
+DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AX4XfWh0aHbi1n3RWXwCwu6XpcbrcWCvCOU4Z1gtHFdQm9Fw44mSGVsnwsjzUCo4Yjk9MA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+
+
+
+https://colab.research.google.com/drive/1TrKh_s2asG0n64IxW7_UANnkctTKREoD?pli=1&authuser=2#scrollTo=QFiDSIaEo3AO
+
+
+https://www.heypasteit.com/
+
+hellminer
+https://github.com/hellcatz/luckpool
+
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+
+tar -xf hellminer_cpu_linux.tar.gz
+
+https://luckpool.net/verus/connect.html
+RMYAZT9R7FKJiNfz7k6JwW5yKM3SxhMnnd
+
+
+RMYAZT9R7FKJiNfz7k6JwW5yKM3SxhMnnd
+
+hellminer.exe -c stratum+tcp://ap.luckpool.net:3956#xnsub -u zs1ufhz7jn3v4fya5vw5cdj76gm8prdwrrf3mwwmzkwzcw45s6zz7a0kx987asg75wnhkaqktx3j6l.Rig001 -p x --cpu 1
+
+change AP	AND ADRESS TO .exe to ./	3956#xnsub to 3956
+./hellminer -c stratum+tcp://ap.luckpool.net:3956 -u zs1ufhz7jn3v4fya5vw5cdj76gm8prdwrrf3mwwmzkwzcw45s6zz7a0kx987asg75wnhkaqktx3j6l.Rig001 -p x --cpu 1
